@@ -1,30 +1,47 @@
-#German Traffic Sign Detection using CNNs 🚦�
-A deep learning project to recognize German traffic signs using Convolutional Neural Networks (CNNs) trained on the GTSRB dataset.
+German Traffic Sign Detection using CNNs 🚦
 
-#👨‍💻 Team Members
-Adithya Narisipilli
-K Koushik
-J N Sidhartha
+	A deep learning project to recognize German traffic signs using Convolutional Neural Networks (CNNs) trained on the GTSRB dataset.
 
-#📁 Dataset
-Name: GTSRB (German Traffic Sign Recognition Benchmark)
-Classes: 43 traffic signs
-Images: ~50,000
+👨‍💻 Team Members
+	
+	K Koushik
 
-#🧠 Model Summary
-CNN with 3 convolutional layers
-MaxPooling and Dropout used
-Trained using CrossEntropyLoss and SGD optimizer
-Achieved ~95% accuracy
+	Adithya Narisipilli
+	
+	J N Sidhartha
 
-#📊 Performance Metrics
-Accuracy: 95%
-Precision: 93%
-Recall: 92%
-F1-Score: 92%
+📁 Dataset
+	
+	Name: GTSRB (German Traffic Sign Recognition Benchmark)
+	
+	Classes: 43 traffic signs
+	
+	Images: ∼50,000
 
-#📌 How to Run
-Run the traffice-sign-detection-cnn.ipynb file in:
+🧠 Model Summary
+	
+	CNN with 3 convolutional layers
+	
+	MaxPooling and Dropout used
+	
+	Trained using CrossEntropyLoss and SGD optimizer
+	
+	Achieved ∼95% accuracy
 
-Jupyter Notebook locally
-Kaggle Notebook
+📈 Performance Metrics
+	
+	Accuracy: 95%
+	
+	Precision: 93%
+	
+	Recall: 92%
+	
+	F1-Score: 92%
+
+📌 How to Run
+	
+	Run the traffic-sign-detection-cnn.ipynb file in:
+	
+	Jupyter Notebook locally
+	
+	Kaggle Notebook
